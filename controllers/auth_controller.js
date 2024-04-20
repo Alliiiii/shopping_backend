@@ -18,6 +18,7 @@ const signup=async(req,res)=>{
     })
     }
     catch(e){
+        console.log("error "+e.message.toString());
         return res.status(500).json({
             status:0,
             message:e.message
