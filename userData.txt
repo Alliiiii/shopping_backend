@@ -1,0 +1,7 @@
+user name
+aliaslamshaikh20
+user password
+egSD9CP61qCjtx48
+connection string 
+mongodb+srv://aliaslamshaikh20:<password>@cluster0.qewsupm.mongodb.net/?retryWrites=true&w=majority
+
